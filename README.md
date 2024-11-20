@@ -22,13 +22,13 @@ The vehicle booking system allows users to reserve vehicles such as bikes, scoot
 1. Clone the repository:
 
 ```bash
-  https://github.com/stampcodes/typescript_travel
+  https://github.com/stampcodes/vehicle_booking_system.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
- cd typescript_travel
+ cd vehicle_booking_system
 ```
 
 3. Compile the TypeScript application:
